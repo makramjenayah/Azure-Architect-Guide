@@ -9,6 +9,7 @@
 
 **The Azure Solution Architect Map**: https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/The-Azure-Solution-Architect-Map/ba-p/689700 </br>
 **The Azure Security Architect Map**: https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/The-Azure-Security-Architect-Map/ba-p/714091 </br>
+**The Azure Infrastructure Architect Map**: https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/The-Azure-Infrastructure-Architect-Map/ba-p/766268 </br>
 
 
 ## Certification

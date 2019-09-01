@@ -2,13 +2,13 @@
 
 ## Microsoft Links
 
-**Azure Architecture Center**: <a href="https://docs.microsoft.com/en-us/azure/architecture/" target="_blank">https://docs.microsoft.com/en-us/azure/architecture/</a> </br>
+**Azure Architecture Center**: https://docs.microsoft.com/en-us/azure/architecture/ </br>
 **Azure Reference Architecture**: https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/</br>
 
-##Community Links
+## Community Links
 
-**The Azure Solution Architect Map**: https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/The-Azure-Solution-Architect-Map/ba-p/689700
-**The Azure Security Architect Map**: https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/The-Azure-Security-Architect-Map/ba-p/714091
+**The Azure Solution Architect Map**: https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/The-Azure-Solution-Architect-Map/ba-p/689700 </br>
+**The Azure Security Architect Map**: https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/The-Azure-Security-Architect-Map/ba-p/714091 </br>
 
 
 ## Certification

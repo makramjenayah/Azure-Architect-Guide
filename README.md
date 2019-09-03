@@ -4,6 +4,8 @@
 
 **Azure Architecture Center**: https://docs.microsoft.com/en-us/azure/architecture/ </br>
 **Azure Reference Architecture**: https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/</br>
+**Azure Security Best Practises**: https://docs.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns </br>
+**Azure Application Architecture Guide**: https://azure.microsoft.com/fr-fr/blog/azure-application-architecture-guide/ </br>
 
 ## Community Links
 
@@ -19,4 +21,5 @@
 
 ## Training 
 
+**Pillar of a great architecture**:https://docs.microsoft.com/en-us/learn/modules/pillars-of-a-great-azure-architecture/</br>
 **Pluralsight training path**: https://www.pluralsight.com/role-iq/microsoft-azure-solution-architect</br>

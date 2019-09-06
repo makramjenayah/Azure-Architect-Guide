@@ -7,6 +7,9 @@
 **Azure Security Best Practises**: https://docs.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns </br>
 **Azure Application Architecture Guide**: https://azure.microsoft.com/fr-fr/blog/azure-application-architecture-guide/ </br>
 
+## Ebooks
+**Azure for Architects**: https://azure.microsoft.com/en-us/resources/azure-for-architects/ </br>
+
 ## Community Links
 
 **The Azure Solution Architect Map**: https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/The-Azure-Solution-Architect-Map/ba-p/689700 </br>
